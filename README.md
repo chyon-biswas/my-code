@@ -1,2 +1,2 @@
-# my-code
+# my-game
 this is my  first repository
